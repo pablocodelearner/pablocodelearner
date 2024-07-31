@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pablocodelearner
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning looking for a job as data analyst
+- 👀 I’m passionate about Python, SQL & Data Science
+- 🌱 I’m currently looking for a job as data analyst
 - 💞️ I’m looking to collaborate on projects to develop a portfolio in data science
 
 <!---
